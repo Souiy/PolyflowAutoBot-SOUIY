@@ -26,6 +26,14 @@ Dst
 ## 4. If You want to use proxy , enter your proxy in proxy.txt
 nano proxy.txt
 
+## 5. Enter Your Token on token.txt
+nano token.txt
+
+eyj....
+
+eyjj...
+
+
 ## Run Bot 
 
 npm start
@@ -34,4 +42,4 @@ npm start
 
 node new.js
 
-if you want buy me some Coffee ☕️ : 
+
